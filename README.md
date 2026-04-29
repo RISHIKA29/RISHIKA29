@@ -1,16 +1,64 @@
-## Hi there 👋
+# Rishika Reddy
+Data Analyst focused on KPI dashboards, ETL workflows, and business-driven analytics
 
-<!--
-**RISHIKA29/RISHIKA29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master’s in Computer Science, Northern Illinois University  
+Data Analyst | SQL | Python | Power BI | Tableau  
+DeKalb, IL | Open to roles starting 2026  
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on end-to-end data analysis — from cleaning raw data to building dashboards and generating business insights.
+
+My experience includes:
+- Analyzing 50K+ transaction records using SQL and Python to identify revenue drivers  
+- Building Power BI dashboards used to track KPIs across revenue and customer activity  
+- Developing ETL pipelines to automate data cleaning and reporting workflows  
+- Performing customer segmentation based on behavior and purchase patterns  
+- Creating forecasting models to support staffing and operational decisions  
+
+I’m particularly interested in roles where data directly impacts business decisions.
+
+---
+
+## Skills
+
+**Programming & Analysis**  
+Python (Pandas, NumPy), SQL  
+
+**Visualization & BI**  
+Power BI, Tableau, Excel  
+
+**Data Concepts**  
+Data Cleaning, ETL Pipelines, Data Modeling, KPI Tracking, Forecasting  
+
+**Tools**  
+AWS (S3), Jupyter Notebook, Git, GitHub  
+
+---
+
+## Projects
+
+**Business Intelligence Sales Dashboard**  
+Built an interactive Power BI dashboard to track revenue, profit, and customer trends.  
+(Project link coming soon)
+
+**Customer Segmentation & Revenue Analysis**  
+Analyzed transaction data to identify high-value customer segments and improve targeting.  
+(Project link coming soon)
+
+**OTT Platform Data Analysis & ETL Pipeline**  
+Designed a relational schema and built ETL pipelines for scalable data analysis.  
+(Project link coming soon)
+
+**US Foreign Aid Data Visualization**  
+Developed multi-view visualizations to analyze global funding distribution.  
+(Project link coming soon)
+
+---
+
+## Contact
+
+Email: rishikareddy2003@gmail.com  
+LinkedIn: https://linkedin.com/in/rishika-reddy-karra  
+GitHub: https://github.com/RISHIKA29
