@@ -40,8 +40,8 @@ AWS (S3), Jupyter Notebook, Git, GitHub
 ## Projects
 
 **Business Intelligence Sales Dashboard**  
-Built an interactive Power BI dashboard to track revenue, profit, and customer trends.  
-(Project link coming soon)
+Built an end-to-end sales analytics project using SQL, Python, and Power BI to track revenue, profit, profit margin, total orders, monthly sales trends, category performance, and top products.  
+[View Project](https://github.com/RISHIKA29/business-intelligence-sales-dashboard)
 
 **Customer Segmentation & Revenue Analysis**  
 Analyzed transaction data to identify high-value customer segments and improve targeting.  
