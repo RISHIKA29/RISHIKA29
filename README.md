@@ -45,7 +45,7 @@ Built an end-to-end sales analytics project using SQL, Python, and Power BI to t
 
 **Customer Segmentation & Revenue Analysis**  
 Analyzed transaction data to identify high-value customer segments and improve targeting.  
-(Project link coming soon)
+[View Project](https://github.com/RISHIKA29/customer-segmentation-revenue-analysis)
 
 **OTT Platform Data Analysis & ETL Pipeline**  
 Designed a relational schema and built ETL pipelines for scalable data analysis.  
