@@ -49,7 +49,7 @@ Analyzed transaction data to identify high-value customer segments and improve t
 
 **OTT Platform Data Analysis & ETL Pipeline**  
 Designed a relational schema and built ETL pipelines for scalable data analysis.  
-[View Project]([https://github.com/RISHIKA29/customer-segmentation-revenue-analysis])
+[View Project](https://github.com/RISHIKA29/customer-segmentation-revenue-analysis)
 
 **US Foreign Aid Data Visualization**  
 Developed multi-view visualizations to analyze global funding distribution.  
