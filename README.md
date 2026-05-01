@@ -8,7 +8,7 @@ DeKalb, IL | Open to roles starting 2026
 
 ## About
 
-I work on end-to-end data analysis — from cleaning raw data to building dashboards and generating business insights.
+I work on end-to-end data analysis - from cleaning raw data to building dashboards and generating business insights.
 
 My experience includes:
 - Analyzing 50K+ transaction records using SQL and Python to identify revenue drivers  
