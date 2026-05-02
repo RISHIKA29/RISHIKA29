@@ -1,58 +1,49 @@
 # Rishika Reddy
-Data Analyst focused on KPI dashboards, ETL workflows, and business-driven analytics
 
-Master’s in Computer Science, Northern Illinois University  
-Data Analyst | SQL | Python | Power BI | Tableau  
-DeKalb, IL | Open to roles starting 2026  
----
+Graduate student in Computer Science with a focus on Data Analytics and Business Intelligence.
 
-## About
+I build data projects that turn raw data into business insights through SQL, Python, Power BI, and data visualization.
 
-I work on end-to-end data analysis - from cleaning raw data to building dashboards and generating business insights.
-
-My experience includes:
-- Analyzing 50K+ transaction records using SQL and Python to identify revenue drivers  
-- Building Power BI dashboards used to track KPIs across revenue and customer activity  
-- Developing ETL pipelines to automate data cleaning and reporting workflows  
-- Performing customer segmentation based on behavior and purchase patterns  
-- Creating forecasting models to support staffing and operational decisions  
-
-I’m particularly interested in roles where data directly impacts business decisions.
+My work focuses on:
+- Building KPI-driven dashboards
+- Cleaning and transforming raw datasets
+- Analyzing customer, revenue, and operational trends
+- Translating business questions into clear visual insights
 
 ---
 
 ## Skills
 
 **Programming & Analysis**  
-Python (Pandas, NumPy), SQL  
+Python, SQL, Pandas, NumPy
 
 **Visualization & BI**  
-Power BI, Tableau, Excel  
+Power BI, Tableau, Excel, D3.js
 
 **Data Concepts**  
-Data Cleaning, ETL Pipelines, Data Modeling, KPI Tracking, Forecasting  
+Data Cleaning, ETL Pipelines, KPI Tracking, Customer Segmentation, Forecasting, Data Modeling
 
 **Tools**  
-AWS (S3), Jupyter Notebook, Git, GitHub  
+Jupyter Notebook, Google Colab, Git, GitHub, SQLite
 
 ---
 
 ## Projects
 
 **Business Intelligence Sales Dashboard**  
-Built an end-to-end sales analytics project using SQL, Python, and Power BI to track revenue, profit, profit margin, total orders, monthly sales trends, category performance, and top products.  
+Built a Power BI dashboard to track sales performance, revenue, profit, category trends, and top-performing products.  
 [View Project](https://github.com/RISHIKA29/business-intelligence-sales-dashboard)
 
 **Customer Segmentation & Revenue Analysis**  
-Analyzed transaction data to identify high-value customer segments and improve targeting.  
+Segmented customers based on value and activity to identify high-value customers, inactive users, revenue concentration, and retention opportunities.  
 [View Project](https://github.com/RISHIKA29/customer-segmentation-revenue-analysis)
 
 **OTT Platform Data Analysis & ETL Pipeline**  
-Designed a relational schema and built ETL pipelines for scalable data analysis.  
+Developed an OTT content analytics pipeline using Python, SQL, and SQLite to clean Netflix data and analyze content distribution, genre trends, and country-level contribution.  
 [View Project](https://github.com/RISHIKA29/ott-platform-data-analysis-etl-pipeline)
 
 **US Foreign Aid Data Visualization**  
-Built an interactive Observable/D3.js visualization to explore US foreign aid distribution across countries, sectors, and time.  
+Created an interactive D3.js dashboard to visualize U.S. foreign aid distribution across countries, regions, sectors, and funding categories.  
 [View Project](https://github.com/RISHIKA29/us-foreign-aid-data-visualization)
 
 ---
