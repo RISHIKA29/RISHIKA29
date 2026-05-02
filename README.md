@@ -52,8 +52,8 @@ Designed a relational schema and built ETL pipelines for scalable data analysis.
 [View Project](https://github.com/RISHIKA29/ott-platform-data-analysis-etl-pipeline)
 
 **US Foreign Aid Data Visualization**  
-Developed multi-view visualizations to analyze global funding distribution.  
-(Project link coming soon)
+Built an interactive Observable/D3.js visualization to explore US foreign aid distribution across countries, sectors, and time.  
+[View Project](https://github.com/RISHIKA29/us-foreign-aid-data-visualization)
 
 ---
 
