@@ -1,6 +1,6 @@
 # Rishika Reddy
 
-Graduate student in Computer Science with a focus on Data Analytics and Business Intelligence.
+Data Analyst focused on SQL, Python, Power BI, ETL workflows, and business intelligence.
 
 I build data projects that turn raw data into business insights through SQL, Python, Power BI, and data visualization.
 
